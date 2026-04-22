@@ -1,0 +1,148 @@
+[
+  {
+    "question": "What is product management?",
+    "answer": "Product management is the process of planning, developing, and managing a product. It involves understanding customer needs and market trends. Product managers define vision and strategy. They ensure successful product delivery."
+  },
+  {
+    "question": "What is a product manager?",
+    "answer": "A product manager is responsible for a product’s success. They define requirements and coordinate teams. They act as a bridge between business, design, and engineering. Their goal is to deliver value to users."
+  },
+  {
+    "question": "What is product lifecycle?",
+    "answer": "Product lifecycle describes stages from development to decline. It includes introduction, growth, maturity, and decline. It helps plan strategies at each stage. It guides product decisions."
+  },
+  {
+    "question": "What is product roadmap?",
+    "answer": "A product roadmap is a strategic plan for product development. It outlines features and timelines. It aligns teams with goals. It helps communicate vision."
+  },
+  {
+    "question": "What is MVP?",
+    "answer": "MVP (Minimum Viable Product) is a basic version of a product. It includes core features only. It helps validate ideas quickly. It reduces development risk."
+  },
+
+  {
+    "question": "What is product vision?",
+    "answer": "Product vision defines the long-term goal of a product. It guides decision-making. It aligns teams and stakeholders. A clear vision ensures direction."
+  },
+  {
+    "question": "What is product strategy?",
+    "answer": "Product strategy defines how a product achieves its goals. It includes target market and value proposition. It guides development decisions. It ensures competitive advantage."
+  },
+  {
+    "question": "What is user story?",
+    "answer": "A user story describes a feature from user perspective. It focuses on user needs. It is written in simple language. It helps teams understand requirements."
+  },
+  {
+    "question": "What is backlog?",
+    "answer": "Backlog is a list of tasks or features. It is prioritized based on importance. It guides development work. It is managed by product managers."
+  },
+  {
+    "question": "What is sprint?",
+    "answer": "A sprint is a short development cycle in Agile. It usually lasts 1–2 weeks. Teams complete tasks within a sprint. It improves productivity and focus."
+  },
+
+  {
+    "question": "What is Agile methodology?",
+    "answer": "Agile is an iterative development approach. It focuses on flexibility and collaboration. It delivers small increments of work. It adapts to changes quickly."
+  },
+  {
+    "question": "What is Scrum?",
+    "answer": "Scrum is an Agile framework for managing projects. It uses roles like Scrum Master and Product Owner. It works in sprints. It improves team collaboration."
+  },
+  {
+    "question": "What is stakeholder?",
+    "answer": "A stakeholder is anyone interested in the product. It includes customers, investors, and team members. Stakeholders influence decisions. Managing them is important."
+  },
+  {
+    "question": "What is user experience?",
+    "answer": "User experience (UX) focuses on how users interact with a product. It ensures usability and satisfaction. Good UX improves engagement. It is critical for success."
+  },
+  {
+    "question": "What is product-market fit?",
+    "answer": "Product-market fit means the product satisfies market needs. Customers find value in it. It leads to growth and success. It is a key milestone."
+  },
+
+  {
+    "question": "What is A/B testing?",
+    "answer": "A/B testing compares two versions of a product. It measures which performs better. It helps make data-driven decisions. It improves user experience."
+  },
+  {
+    "question": "What is KPI?",
+    "answer": "KPI (Key Performance Indicator) measures product success. It tracks metrics like growth and engagement. It helps evaluate performance. It guides decisions."
+  },
+  {
+    "question": "What is product analytics?",
+    "answer": "Product analytics analyzes user behavior. It helps understand how users interact. It identifies areas for improvement. It supports decision-making."
+  },
+  {
+    "question": "What is churn rate?",
+    "answer": "Churn rate measures customers leaving a product. It indicates dissatisfaction. Lower churn means better retention. It is important for growth."
+  },
+  {
+    "question": "What is customer feedback?",
+    "answer": "Customer feedback provides user opinions. It helps improve products. It identifies issues and needs. It guides product decisions."
+  },
+
+  {
+    "question": "What is prioritization?",
+    "answer": "Prioritization decides which tasks to work on first. It considers value and impact. It helps manage resources. It ensures important features are delivered."
+  },
+  {
+    "question": "What is product launch?",
+    "answer": "Product launch introduces a product to market. It involves marketing and promotion. It creates awareness. A successful launch drives adoption."
+  },
+  {
+    "question": "What is go-to-market strategy?",
+    "answer": "Go-to-market strategy defines how a product reaches customers. It includes pricing and marketing. It ensures successful entry. It targets right audience."
+  },
+  {
+    "question": "What is user persona?",
+    "answer": "User persona represents ideal customer profile. It includes demographics and behavior. It helps understand users. It guides product decisions."
+  },
+  {
+    "question": "What is wireframe?",
+    "answer": "A wireframe is a basic layout of a product design. It shows structure and elements. It helps visualize features. It is used before development."
+  },
+
+  {
+    "question": "What is prototyping?",
+    "answer": "Prototyping creates a sample version of a product. It helps test ideas. It improves design before development. It reduces risk."
+  },
+  {
+    "question": "What is product backlog grooming?",
+    "answer": "Backlog grooming updates and prioritizes tasks. It ensures backlog is relevant. It prepares items for development. It improves efficiency."
+  },
+  {
+    "question": "What is feature prioritization?",
+    "answer": "Feature prioritization decides which features to build first. It considers value and effort. It helps deliver maximum impact. It aligns with goals."
+  },
+  {
+    "question": "What is customer journey?",
+    "answer": "Customer journey describes user interaction with product. It includes all touchpoints. It helps identify pain points. It improves experience."
+  },
+  {
+    "question": "What is product differentiation?",
+    "answer": "Product differentiation makes a product unique. It highlights special features. It attracts customers. It creates competitive advantage."
+  },
+
+  {
+    "question": "What is retention?",
+    "answer": "Retention measures how many users continue using product. It indicates satisfaction. High retention leads to growth. It is important for success."
+  },
+  {
+    "question": "What is revenue model?",
+    "answer": "Revenue model defines how product earns money. It includes pricing strategies. Examples include subscription and ads. It supports sustainability."
+  },
+  {
+    "question": "What is product iteration?",
+    "answer": "Product iteration improves product over time. It uses feedback and data. It adds new features. It ensures continuous improvement."
+  },
+  {
+    "question": "What is cross-functional team?",
+    "answer": "A cross-functional team includes members from different departments. It improves collaboration. It ensures diverse skills. It helps deliver products efficiently."
+  },
+  {
+    "question": "What is roadmap prioritization?",
+    "answer": "Roadmap prioritization organizes features based on importance. It aligns with strategy. It ensures focus on key goals. It helps manage resources."
+  }
+]

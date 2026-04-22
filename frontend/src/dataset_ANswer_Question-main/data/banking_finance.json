@@ -1,0 +1,189 @@
+[
+  {
+    "question": "What is a bank?",
+    "answer": "A bank is a financial institution that accepts deposits and provides loans. It acts as an intermediary between savers and borrowers. Banks also offer services like payments, investments, and financial advice."
+  },
+  {
+    "question": "What is compound interest?",
+    "answer": "Compound interest is calculated on the initial principal and also on the accumulated interest. It helps money grow faster over time. It is widely used in savings and investment calculations."
+  },
+  {
+    "question": "What is simple interest?",
+    "answer": "Simple interest is calculated only on the principal amount. It does not consider accumulated interest. It is generally used in short-term loans."
+  },
+  {
+    "question": "What is inflation?",
+    "answer": "Inflation is the rise in prices of goods and services over time. It reduces purchasing power of money. Moderate inflation is normal, but high inflation can harm the economy."
+  },
+  {
+    "question": "What is deflation?",
+    "answer": "Deflation is the decrease in prices of goods and services. It increases the value of money. However, prolonged deflation can slow economic growth."
+  },
+  {
+    "question": "What is a loan?",
+    "answer": "A loan is money borrowed from a lender that must be repaid with interest. It can be used for personal or business purposes. Loans can be secured or unsecured."
+  },
+  {
+    "question": "What is interest rate?",
+    "answer": "Interest rate is the cost of borrowing money expressed as a percentage. It determines how much extra a borrower pays. It is influenced by economic conditions and central bank policies."
+  },
+  {
+    "question": "What is a credit score?",
+    "answer": "A credit score is a numerical representation of a person's creditworthiness. It is based on credit history and repayment behavior. Higher scores improve chances of loan approval."
+  },
+  {
+    "question": "What is a debit card?",
+    "answer": "A debit card allows users to spend money directly from their bank account. It is commonly used for payments and ATM withdrawals. It does not involve borrowing."
+  },
+  {
+    "question": "What is a credit card?",
+    "answer": "A credit card allows users to borrow money up to a limit for purchases. The borrowed amount must be repaid with interest if delayed. It helps build credit history."
+  },
+
+  {
+    "question": "What is a balance sheet?",
+    "answer": "A balance sheet shows a company's financial position at a specific time. It includes assets, liabilities, and equity. It helps evaluate financial health."
+  },
+  {
+    "question": "What are assets?",
+    "answer": "Assets are resources owned by a company or individual. They have economic value and provide future benefits. Examples include cash, property, and investments."
+  },
+  {
+    "question": "What are liabilities?",
+    "answer": "Liabilities are financial obligations owed to others. They include loans, debts, and payables. Managing liabilities is important for financial stability."
+  },
+  {
+    "question": "What is equity?",
+    "answer": "Equity represents ownership in a company after liabilities are deducted. It reflects the net value of a business. Shareholders hold equity in companies."
+  },
+  {
+    "question": "What is a mutual fund?",
+    "answer": "A mutual fund pools money from multiple investors to invest in securities. It is managed by professional fund managers. It helps diversify investments."
+  },
+
+  {
+    "question": "What is stock market?",
+    "answer": "The stock market is a place where shares of companies are bought and sold. It helps companies raise capital. Investors can earn profits through price changes and dividends."
+  },
+  {
+    "question": "What is a share?",
+    "answer": "A share represents ownership in a company. Shareholders have a claim on company profits. The value of shares fluctuates based on market conditions."
+  },
+  {
+    "question": "What is a bond?",
+    "answer": "A bond is a fixed-income instrument where investors lend money to an entity. It pays periodic interest and returns principal at maturity. It is considered safer than stocks."
+  },
+  {
+    "question": "What is diversification?",
+    "answer": "Diversification means spreading investments across different assets. It reduces risk by not relying on one investment. It is a key strategy in portfolio management."
+  },
+  {
+    "question": "What is risk management?",
+    "answer": "Risk management involves identifying and controlling financial risks. It helps minimize losses in investments or business. Techniques include diversification and hedging."
+  },
+
+  {
+    "question": "What is liquidity?",
+    "answer": "Liquidity refers to how easily an asset can be converted into cash. Highly liquid assets include cash and bank deposits. Low liquidity assets include real estate."
+  },
+  {
+    "question": "What is NPA?",
+    "answer": "Non-Performing Asset (NPA) is a loan where the borrower stops making payments. It affects bank profitability. High NPAs indicate financial stress in the banking sector."
+  },
+  {
+    "question": "What is repo rate?",
+    "answer": "Repo rate is the rate at which central banks lend money to commercial banks. It helps control inflation and liquidity. Changes in repo rate impact interest rates."
+  },
+  {
+    "question": "What is reverse repo rate?",
+    "answer": "Reverse repo rate is the rate at which banks deposit money with the central bank. It helps control excess liquidity. It influences short-term interest rates."
+  },
+  {
+    "question": "What is GDP?",
+    "answer": "Gross Domestic Product measures the total value of goods and services produced. It indicates economic growth. Higher GDP reflects a strong economy."
+  },
+
+  {
+    "question": "What is fiscal policy?",
+    "answer": "Fiscal policy involves government spending and taxation decisions. It aims to control economic growth and inflation. Governments use it to stabilize the economy."
+  },
+  {
+    "question": "What is monetary policy?",
+    "answer": "Monetary policy is controlled by central banks to regulate money supply. It uses tools like interest rates. It helps manage inflation and economic stability."
+  },
+  {
+    "question": "What is savings account?",
+    "answer": "A savings account is a bank account that earns interest on deposits. It is used for storing money safely. It provides liquidity and easy access."
+  },
+  {
+    "question": "What is current account?",
+    "answer": "A current account is used by businesses for frequent transactions. It usually does not earn interest. It allows unlimited deposits and withdrawals."
+  },
+  {
+    "question": "What is fixed deposit?",
+    "answer": "A fixed deposit is an investment where money is locked for a period. It offers higher interest than savings accounts. It is considered low-risk."
+  },
+
+  {
+    "question": "What is insurance?",
+    "answer": "Insurance is a financial product that provides protection against risks. It involves paying a premium. It helps cover losses from unexpected events."
+  },
+  {
+    "question": "What is premium?",
+    "answer": "Premium is the amount paid for an insurance policy. It can be monthly or yearly. It ensures coverage against risks."
+  },
+  {
+    "question": "What is underwriting?",
+    "answer": "Underwriting is the process of evaluating risk in insurance or loans. It determines eligibility and pricing. It helps manage financial risks."
+  },
+  {
+    "question": "What is capital?",
+    "answer": "Capital refers to financial resources used for investment. It helps businesses grow and operate. It includes equity and debt."
+  },
+  {
+    "question": "What is working capital?",
+    "answer": "Working capital is the difference between current assets and liabilities. It measures short-term financial health. It ensures smooth business operations."
+  },
+
+  {
+    "question": "What is profit?",
+    "answer": "Profit is the financial gain after expenses are deducted from revenue. It indicates business success. Companies aim to maximize profit."
+  },
+  {
+    "question": "What is revenue?",
+    "answer": "Revenue is the total income generated from business activities. It includes sales and services. It is the starting point of financial analysis."
+  },
+  {
+    "question": "What is cost of capital?",
+    "answer": "Cost of capital is the return required by investors. It represents the cost of financing. It helps in investment decisions."
+  },
+  {
+    "question": "What is financial planning?",
+    "answer": "Financial planning involves managing income, expenses, and investments. It helps achieve financial goals. It ensures long-term stability."
+  },
+  {
+    "question": "What is budgeting?",
+    "answer": "Budgeting is planning income and expenses over a period. It helps control spending. It improves financial discipline."
+  },
+
+  {
+    "question": "What is taxation?",
+    "answer": "Taxation is the system of collecting money by the government. It funds public services. Taxes can be direct or indirect."
+  },
+  {
+    "question": "What is direct tax?",
+    "answer": "Direct tax is paid directly to the government by individuals. Examples include income tax. It cannot be shifted to others."
+  },
+  {
+    "question": "What is indirect tax?",
+    "answer": "Indirect tax is collected on goods and services. It is paid by consumers indirectly. Examples include GST."
+  },
+  {
+    "question": "What is GST?",
+    "answer": "Goods and Services Tax is a unified indirect tax system. It replaced multiple taxes. It simplifies taxation."
+  },
+  {
+    "question": "What is financial risk?",
+    "answer": "Financial risk is the possibility of losing money in investments. It depends on market conditions. Managing risk is essential for stability."
+  }
+]

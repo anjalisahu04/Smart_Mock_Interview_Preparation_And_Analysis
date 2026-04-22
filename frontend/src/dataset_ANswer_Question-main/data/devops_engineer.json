@@ -1,0 +1,190 @@
+[
+  {
+    "question": "What is DevOps?",
+    "answer": "DevOps is a practice that combines development and operations teams. It aims to improve collaboration and automate workflows. It enables faster software delivery. It enhances reliability and efficiency."
+  },
+  {
+    "question": "What is CI/CD?",
+    "answer": "CI/CD stands for Continuous Integration and Continuous Deployment. It automates building, testing, and deploying code. It ensures faster and reliable releases. It reduces manual errors."
+  },
+  {
+    "question": "What is continuous integration?",
+    "answer": "Continuous Integration involves merging code changes frequently. It automatically builds and tests code. It helps detect errors early. It improves code quality."
+  },
+  {
+    "question": "What is continuous deployment?",
+    "answer": "Continuous deployment automatically releases code changes to production. It ensures faster delivery. It reduces manual intervention. It requires strong testing processes."
+  },
+  {
+    "question": "What is version control?",
+    "answer": "Version control tracks changes in code over time. It allows collaboration among developers. It helps manage different versions. Git is a popular tool."
+  },
+
+  {
+    "question": "What is Git?",
+    "answer": "Git is a distributed version control system. It tracks code changes efficiently. It allows branching and merging. It supports team collaboration."
+  },
+  {
+    "question": "What is a repository?",
+    "answer": "A repository stores code and its history. It can be local or remote. It helps manage versions. It is used in Git platforms."
+  },
+  {
+    "question": "What is branching in Git?",
+    "answer": "Branching allows developers to work on features separately. It avoids affecting main code. It helps parallel development. It improves workflow."
+  },
+  {
+    "question": "What is merging in Git?",
+    "answer": "Merging combines changes from different branches. It integrates new features. It may cause conflicts. Proper management ensures smooth merging."
+  },
+  {
+    "question": "What is Docker?",
+    "answer": "Docker is a containerization platform. It packages applications with dependencies. It ensures consistent environments. It improves deployment efficiency."
+  },
+
+  {
+    "question": "What is containerization?",
+    "answer": "Containerization isolates applications in containers. It ensures portability across systems. It reduces conflicts. It improves scalability."
+  },
+  {
+    "question": "What is Kubernetes?",
+    "answer": "Kubernetes manages containerized applications. It automates deployment and scaling. It ensures high availability. It is widely used in cloud environments."
+  },
+  {
+    "question": "What is orchestration?",
+    "answer": "Orchestration manages multiple containers automatically. It handles deployment and scaling. It ensures system efficiency. Kubernetes is an example."
+  },
+  {
+    "question": "What is cloud computing?",
+    "answer": "Cloud computing provides computing services over internet. It includes storage and servers. It offers scalability and flexibility. Examples include AWS and Azure."
+  },
+  {
+    "question": "What is infrastructure as code?",
+    "answer": "Infrastructure as Code manages infrastructure using code. It automates provisioning. It ensures consistency. Tools include Terraform."
+  },
+
+  {
+    "question": "What is monitoring?",
+    "answer": "Monitoring tracks system performance and health. It detects issues early. It ensures system reliability. Tools include Prometheus."
+  },
+  {
+    "question": "What is logging?",
+    "answer": "Logging records system events and errors. It helps in debugging. It provides insights into operations. It improves troubleshooting."
+  },
+  {
+    "question": "What is scalability?",
+    "answer": "Scalability is the ability to handle increased load. It ensures performance under growth. It can be vertical or horizontal. It is important for large systems."
+  },
+  {
+    "question": "What is load balancing?",
+    "answer": "Load balancing distributes traffic across servers. It improves performance. It prevents overload. It ensures high availability."
+  },
+  {
+    "question": "What is high availability?",
+    "answer": "High availability ensures systems run continuously. It minimizes downtime. It uses redundancy. It improves reliability."
+  },
+
+  {
+    "question": "What is deployment?",
+    "answer": "Deployment is releasing software to users. It moves code to production. It ensures application availability. It is part of CI/CD."
+  },
+  {
+    "question": "What is rollback?",
+    "answer": "Rollback restores system to previous version. It is used when deployment fails. It ensures stability. It reduces downtime."
+  },
+  {
+    "question": "What is automation in DevOps?",
+    "answer": "Automation reduces manual work in development and operations. It improves efficiency. It ensures consistency. It is key in DevOps."
+  },
+  {
+    "question": "What is pipeline?",
+    "answer": "A pipeline is a series of automated steps. It includes build, test, and deploy stages. It improves workflow. It ensures faster delivery."
+  },
+  {
+    "question": "What is Jenkins?",
+    "answer": "Jenkins is an automation server. It supports CI/CD pipelines. It automates testing and deployment. It improves efficiency."
+  },
+
+  {
+    "question": "What is configuration management?",
+    "answer": "Configuration management maintains system consistency. It manages settings and updates. It ensures reliability. Tools include Ansible."
+  },
+  {
+    "question": "What is Ansible?",
+    "answer": "Ansible is a configuration management tool. It automates tasks. It uses simple scripts. It improves efficiency."
+  },
+  {
+    "question": "What is Terraform?",
+    "answer": "Terraform is an infrastructure as code tool. It manages cloud resources. It uses configuration files. It ensures automation."
+  },
+  {
+    "question": "What is blue-green deployment?",
+    "answer": "Blue-green deployment uses two environments. One is active, one is standby. It ensures zero downtime. It improves reliability."
+  },
+  {
+    "question": "What is canary deployment?",
+    "answer": "Canary deployment releases updates gradually. It tests new features with small users. It reduces risk. It ensures stability."
+  },
+
+  {
+    "question": "What is security in DevOps?",
+    "answer": "Security ensures protection of systems and data. It includes encryption and access control. It prevents attacks. It is important in DevOps."
+  },
+  {
+    "question": "What is DevSecOps?",
+    "answer": "DevSecOps integrates security into DevOps. It ensures secure development. It detects vulnerabilities early. It improves safety."
+  },
+  {
+    "question": "What is API gateway?",
+    "answer": "API gateway manages API requests. It acts as entry point. It handles authentication and routing. It improves performance."
+  },
+  {
+    "question": "What is microservices architecture?",
+    "answer": "Microservices architecture divides application into small services. Each service works independently. It improves scalability. It supports faster development."
+  },
+  {
+    "question": "What is monolithic architecture?",
+    "answer": "Monolithic architecture is a single large system. All components are tightly connected. It is simple but less scalable. It is harder to maintain."
+  },
+
+  {
+    "question": "What is container registry?",
+    "answer": "Container registry stores container images. It helps manage versions. It is used in deployments. Examples include Docker Hub."
+  },
+  {
+    "question": "What is artifact?",
+    "answer": "Artifact is a file produced during build. It includes binaries or packages. It is used for deployment. It ensures consistency."
+  },
+  {
+    "question": "What is environment in DevOps?",
+    "answer": "Environment is a setup where application runs. Examples include development, testing, and production. It ensures proper workflow. It helps in testing."
+  },
+  {
+    "question": "What is staging environment?",
+    "answer": "Staging environment is a pre-production setup. It mirrors production. It is used for final testing. It ensures smooth deployment."
+  },
+  {
+    "question": "What is production environment?",
+    "answer": "Production environment is where users access application. It must be stable and secure. It handles real data. It requires monitoring."
+  },
+
+  {
+    "question": "What is fault tolerance?",
+    "answer": "Fault tolerance ensures system continues despite failures. It uses redundancy. It improves reliability. It is critical for systems."
+  },
+  {
+    "question": "What is latency?",
+    "answer": "Latency is delay in system response. Lower latency improves performance. It affects user experience. It must be minimized."
+  },
+  {
+    "question": "What is throughput?",
+    "answer": "Throughput measures amount of work done. It shows system performance. Higher throughput is better. It is important for scalability."
+  },
+  {
+    "question": "What is SLA?",
+    "answer": "SLA defines service expectations. It includes uptime and performance. It ensures accountability. It builds trust."
+  },
+  {
+    "question": "What is SRE?",
+    "answer": "Site Reliability Engineering focuses on system reliability. It uses automation and monitoring. It improves uptime. It supports DevOps."
+  }
+]

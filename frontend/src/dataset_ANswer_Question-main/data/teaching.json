@@ -1,0 +1,157 @@
+[
+  {
+    "question": "What is teaching?",
+    "answer": "Teaching is the process of sharing knowledge, skills, and values with learners. It involves guiding students to understand concepts and apply them. Effective teaching promotes critical thinking and learning. It plays a key role in personal and academic development."
+  },
+  {
+    "question": "What is learning?",
+    "answer": "Learning is the process of acquiring knowledge, skills, and behavior. It occurs through study, experience, and practice. Learning can be formal or informal. It helps individuals grow and adapt."
+  },
+  {
+    "question": "What is a lesson plan?",
+    "answer": "A lesson plan is a structured outline for teaching a topic. It includes objectives, activities, and assessment methods. It helps teachers stay organized and effective. Proper planning improves student understanding."
+  },
+  {
+    "question": "What is classroom management?",
+    "answer": "Classroom management involves maintaining discipline and order. It ensures a positive learning environment. It includes rules, routines, and student engagement. Good management improves learning outcomes."
+  },
+  {
+    "question": "What is pedagogy?",
+    "answer": "Pedagogy is the method and practice of teaching. It includes strategies used by teachers. It focuses on how students learn best. Effective pedagogy improves teaching quality."
+  },
+
+  {
+    "question": "What is formative assessment?",
+    "answer": "Formative assessment evaluates student learning during instruction. It provides feedback for improvement. It helps teachers adjust teaching methods. Examples include quizzes and discussions."
+  },
+  {
+    "question": "What is summative assessment?",
+    "answer": "Summative assessment evaluates learning at the end of a course. It measures overall performance. Examples include final exams and projects. It determines student achievement."
+  },
+  {
+    "question": "What is student-centered learning?",
+    "answer": "Student-centered learning focuses on students' needs and interests. It encourages active participation. Students take responsibility for their learning. It improves engagement and understanding."
+  },
+  {
+    "question": "What is teacher-centered learning?",
+    "answer": "Teacher-centered learning focuses on the teacher as the main source of knowledge. Students listen and follow instructions. It is structured and controlled. It may limit student interaction."
+  },
+  {
+    "question": "What is active learning?",
+    "answer": "Active learning involves students participating in activities. It includes discussions, problem-solving, and group work. It improves engagement and retention. It encourages critical thinking."
+  },
+
+  {
+    "question": "What is collaborative learning?",
+    "answer": "Collaborative learning involves students working in groups. They share ideas and solve problems together. It improves communication skills. It promotes teamwork and deeper understanding."
+  },
+  {
+    "question": "What is differentiated instruction?",
+    "answer": "Differentiated instruction adapts teaching to meet student needs. It considers different learning styles. It provides multiple ways to learn content. It ensures all students succeed."
+  },
+  {
+    "question": "What is inclusive education?",
+    "answer": "Inclusive education ensures all students learn together. It includes students with diverse abilities. It promotes equality and participation. It creates a supportive learning environment."
+  },
+  {
+    "question": "What is curriculum?",
+    "answer": "Curriculum is the content and structure of a course. It defines what students will learn. It includes objectives, topics, and activities. It guides teaching and learning."
+  },
+  {
+    "question": "What is syllabus?",
+    "answer": "A syllabus is a detailed outline of a course. It includes topics, schedule, and assessment. It helps students understand expectations. It provides course structure."
+  },
+
+  {
+    "question": "What is feedback in teaching?",
+    "answer": "Feedback provides information on student performance. It helps students improve learning. It can be positive or corrective. Effective feedback is clear and timely."
+  },
+  {
+    "question": "What is motivation in learning?",
+    "answer": "Motivation encourages students to learn and achieve goals. It can be intrinsic or extrinsic. Motivated students perform better. Teachers play a key role in motivating learners."
+  },
+  {
+    "question": "What is critical thinking?",
+    "answer": "Critical thinking is the ability to analyze and evaluate information. It helps in problem-solving. It encourages independent thinking. It is an important skill in education."
+  },
+  {
+    "question": "What is problem-based learning?",
+    "answer": "Problem-based learning uses real-world problems for teaching. Students actively solve issues. It improves analytical skills. It encourages practical understanding."
+  },
+  {
+    "question": "What is experiential learning?",
+    "answer": "Experiential learning is learning through experience. It involves hands-on activities. It helps students understand concepts better. It connects theory with practice."
+  },
+
+  {
+    "question": "What is e-learning?",
+    "answer": "E-learning uses digital platforms for education. It allows flexible learning. It includes online courses and virtual classrooms. It is widely used in modern education."
+  },
+  {
+    "question": "What is blended learning?",
+    "answer": "Blended learning combines online and classroom teaching. It provides flexibility and interaction. It improves learning experience. It is effective in modern education."
+  },
+  {
+    "question": "What is assessment?",
+    "answer": "Assessment measures student learning progress. It evaluates understanding and skills. It includes tests, quizzes, and assignments. It helps improve teaching strategies."
+  },
+  {
+    "question": "What is rubric?",
+    "answer": "A rubric is a scoring guide for assessment. It defines criteria and performance levels. It ensures fair evaluation. It helps students understand expectations."
+  },
+  {
+    "question": "What is peer learning?",
+    "answer": "Peer learning involves students learning from each other. It promotes collaboration and communication. It improves understanding. It builds teamwork skills."
+  },
+
+  {
+    "question": "What is classroom interaction?",
+    "answer": "Classroom interaction involves communication between teacher and students. It includes discussions and questions. It improves engagement. It enhances learning experience."
+  },
+  {
+    "question": "What is teaching strategy?",
+    "answer": "Teaching strategy is a method used to deliver content. It includes lectures, discussions, and activities. It improves learning effectiveness. Different strategies suit different learners."
+  },
+  {
+    "question": "What is educational technology?",
+    "answer": "Educational technology uses digital tools in teaching. It includes smart boards and online platforms. It enhances learning experience. It supports interactive learning."
+  },
+  {
+    "question": "What is learning outcome?",
+    "answer": "Learning outcomes define what students should achieve. They guide teaching and assessment. They focus on knowledge and skills. Clear outcomes improve learning clarity."
+  },
+  {
+    "question": "What is time management in teaching?",
+    "answer": "Time management helps teachers use class time effectively. It ensures all topics are covered. It improves lesson flow. It enhances productivity."
+  },
+
+  {
+    "question": "What is classroom environment?",
+    "answer": "Classroom environment refers to physical and emotional setting. It affects student learning. A positive environment encourages participation. It improves outcomes."
+  },
+  {
+    "question": "What is self-directed learning?",
+    "answer": "Self-directed learning allows students to take control of their learning. They set goals and evaluate progress. It builds independence. It improves lifelong learning skills."
+  },
+  {
+    "question": "What is cognitive learning?",
+    "answer": "Cognitive learning focuses on mental processes. It includes thinking, memory, and problem-solving. It helps in understanding concepts deeply. It is important in education."
+  },
+  {
+    "question": "What is behavioral learning?",
+    "answer": "Behavioral learning focuses on observable behavior changes. It uses reinforcement and repetition. It is based on stimulus-response theory. It is useful in skill development."
+  },
+  {
+    "question": "What is constructivism?",
+    "answer": "Constructivism is a learning theory where students build knowledge. It is based on experience and interaction. It encourages active learning. It improves understanding."
+  },
+
+  {
+    "question": "What is scaffolding in teaching?",
+    "answer": "Scaffolding provides support to students during learning. It helps them achieve tasks step by step. Support is reduced as they gain independence. It improves learning outcomes."
+  },
+  {
+    "question": "What is evaluation in education?",
+    "answer": "Evaluation measures effectiveness of teaching and learning. It includes assessment results and feedback. It helps improve teaching methods. It ensures quality education."
+  }
+]

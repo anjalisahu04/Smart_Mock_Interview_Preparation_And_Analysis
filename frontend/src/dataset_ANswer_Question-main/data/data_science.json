@@ -1,0 +1,229 @@
+[
+  {
+    "question": "What is data science?",
+    "answer": "Data science is an interdisciplinary field that uses statistics, programming, and domain knowledge to extract insights from data. It involves collecting, cleaning, analyzing, and visualizing data. Data science helps organizations make data-driven decisions. It is widely used in business, healthcare, and technology."
+  },
+  {
+    "question": "What is data preprocessing?",
+    "answer": "Data preprocessing is the process of cleaning and preparing raw data for analysis. It includes handling missing values, removing duplicates, and normalizing data. Proper preprocessing improves model performance. It is a crucial step in any data science project."
+  },
+  {
+    "question": "What is supervised learning?",
+    "answer": "Supervised learning is a type of machine learning where the model is trained on labeled data. It learns the relationship between input and output variables. Common tasks include classification and regression. Examples include linear regression and decision trees."
+  },
+  {
+    "question": "What is unsupervised learning?",
+    "answer": "Unsupervised learning is a type of machine learning that works with unlabeled data. It finds hidden patterns and structures in data. Common techniques include clustering and association. Examples include K-means and hierarchical clustering."
+  },
+  {
+    "question": "What is overfitting?",
+    "answer": "Overfitting occurs when a model learns the training data too well, including noise and details. It performs well on training data but poorly on unseen data. This reduces generalization ability. Techniques like regularization and cross-validation help prevent it."
+  },
+  {
+    "question": "What is underfitting?",
+    "answer": "Underfitting occurs when a model is too simple to capture the data patterns. It performs poorly on both training and test data. It fails to learn the relationship properly. Increasing model complexity can help fix underfitting."
+  },
+  {
+    "question": "What is a dataset?",
+    "answer": "A dataset is a collection of structured or unstructured data. It is used for analysis or training machine learning models. Datasets can include features and labels. Proper dataset quality is important for accurate results."
+  },
+  {
+    "question": "What is feature engineering?",
+    "answer": "Feature engineering involves creating new features from existing data. It helps improve model performance. It includes transformation, encoding, and scaling. Good features lead to better predictions."
+  },
+  {
+    "question": "What is normalization?",
+    "answer": "Normalization scales data to a fixed range, usually 0 to 1. It ensures all features contribute equally to the model. It is important for distance-based algorithms. It improves training efficiency."
+  },
+  {
+    "question": "What is standardization?",
+    "answer": "Standardization transforms data to have mean 0 and standard deviation 1. It helps models perform better when features have different scales. It is commonly used in machine learning. It improves convergence speed."
+  },
+
+  {
+    "question": "What is regression?",
+    "answer": "Regression is a supervised learning technique used to predict continuous values. It models the relationship between variables. Examples include linear and polynomial regression. It is used in forecasting and trend analysis."
+  },
+  {
+    "question": "What is classification?",
+    "answer": "Classification is a supervised learning task that predicts categories or labels. It assigns inputs into predefined classes. Examples include spam detection and disease prediction. Algorithms include logistic regression and SVM."
+  },
+  {
+    "question": "What is clustering?",
+    "answer": "Clustering is an unsupervised learning technique that groups similar data points. It helps discover patterns in data. K-means is a popular clustering algorithm. It is used in customer segmentation."
+  },
+  {
+    "question": "What is K-means algorithm?",
+    "answer": "K-means is a clustering algorithm that divides data into K groups. It assigns data points to nearest cluster centers. It updates centroids iteratively. It is simple and widely used."
+  },
+  {
+    "question": "What is decision tree?",
+    "answer": "A decision tree is a supervised learning model used for classification and regression. It splits data into branches based on conditions. It is easy to understand and interpret. However, it can overfit easily."
+  },
+  {
+    "question": "What is random forest?",
+    "answer": "Random forest is an ensemble learning method that uses multiple decision trees. It improves accuracy and reduces overfitting. Each tree is trained on random data samples. It is widely used in real-world applications."
+  },
+  {
+    "question": "What is cross-validation?",
+    "answer": "Cross-validation is a technique to evaluate model performance. It splits data into multiple parts for training and testing. It ensures reliable results. It helps avoid overfitting."
+  },
+  {
+    "question": "What is train-test split?",
+    "answer": "Train-test split divides data into training and testing sets. The model learns from training data. Testing data evaluates performance. It ensures unbiased evaluation."
+  },
+  {
+    "question": "What is accuracy?",
+    "answer": "Accuracy measures how many predictions are correct. It is calculated as correct predictions divided by total predictions. It is useful for balanced datasets. It may not work well for imbalanced data."
+  },
+  {
+    "question": "What is precision?",
+    "answer": "Precision measures how many predicted positives are actually correct. It focuses on false positives. High precision means fewer false alarms. It is important in applications like spam detection."
+  },
+
+  {
+    "question": "What is exploratory data analysis (EDA)?",
+    "answer": "Exploratory Data Analysis (EDA) is the process of analyzing datasets to summarize their main characteristics. It uses visualization tools like graphs and charts. EDA helps detect patterns, anomalies, and relationships. It is an important step before building models."
+  },
+  {
+    "question": "What is data visualization?",
+    "answer": "Data visualization is the graphical representation of data using charts and plots. It helps in understanding trends and patterns easily. Tools like Matplotlib and Tableau are commonly used. It improves decision-making by presenting insights clearly."
+  },
+  {
+    "question": "What is a feature?",
+    "answer": "A feature is an individual measurable property of data. It is used as input for machine learning models. Features influence model predictions. Selecting relevant features improves accuracy."
+  },
+  {
+    "question": "What is a label in machine learning?",
+    "answer": "A label is the output variable that a model tries to predict. It is used in supervised learning. Labels represent the correct answer. Models learn by mapping features to labels."
+  },
+  {
+    "question": "What is bias in machine learning?",
+    "answer": "Bias refers to errors introduced by simplifying assumptions in a model. High bias can lead to underfitting. It reduces model flexibility. Proper model selection helps reduce bias."
+  },
+  {
+    "question": "What is variance in machine learning?",
+    "answer": "Variance refers to how much a model's predictions change with different data. High variance causes overfitting. It makes models sensitive to noise. Techniques like regularization help reduce variance."
+  },
+  {
+    "question": "What is the bias-variance tradeoff?",
+    "answer": "The bias-variance tradeoff balances model simplicity and complexity. High bias leads to underfitting, while high variance causes overfitting. The goal is to find optimal balance. It improves generalization."
+  },
+  {
+    "question": "What is a confusion matrix?",
+    "answer": "A confusion matrix is used to evaluate classification models. It shows true positives, false positives, true negatives, and false negatives. It provides detailed performance insights. It helps calculate metrics like precision and recall."
+  },
+  {
+    "question": "What is recall?",
+    "answer": "Recall measures how many actual positives are correctly identified. It focuses on false negatives. High recall means fewer missed cases. It is important in medical diagnosis."
+  },
+  {
+    "question": "What is F1-score?",
+    "answer": "F1-score is the harmonic mean of precision and recall. It balances both metrics. It is useful when data is imbalanced. Higher F1-score indicates better performance."
+  },
+
+  {
+    "question": "What is data cleaning?",
+    "answer": "Data cleaning involves removing errors and inconsistencies in data. It includes handling missing values and duplicates. Clean data improves model accuracy. It is a crucial preprocessing step."
+  },
+  {
+    "question": "What is missing data handling?",
+    "answer": "Missing data handling involves dealing with incomplete data. Techniques include deletion, mean imputation, or interpolation. It ensures data quality. Proper handling prevents biased results."
+  },
+  {
+    "question": "What is outlier detection?",
+    "answer": "Outlier detection identifies data points that differ significantly from others. Outliers can affect model performance. Methods include Z-score and IQR. Removing outliers improves accuracy."
+  },
+  {
+    "question": "What is feature scaling?",
+    "answer": "Feature scaling adjusts data to a similar range. It helps algorithms perform better. Methods include normalization and standardization. It is important for distance-based models."
+  },
+  {
+    "question": "What is one-hot encoding?",
+    "answer": "One-hot encoding converts categorical data into binary format. It creates separate columns for each category. It helps machine learning models process categorical variables. It avoids ordinal relationships."
+  },
+
+  {
+    "question": "What is logistic regression?",
+    "answer": "Logistic regression is used for classification problems. It predicts probabilities using a sigmoid function. It outputs values between 0 and 1. It is commonly used for binary classification."
+  },
+  {
+    "question": "What is linear regression?",
+    "answer": "Linear regression models the relationship between variables. It predicts continuous values. It fits a straight line to data. It is simple and widely used."
+  },
+  {
+    "question": "What is regularization?",
+    "answer": "Regularization prevents overfitting by adding penalties to the model. It reduces complexity. Techniques include L1 and L2 regularization. It improves generalization."
+  },
+  {
+    "question": "What is L1 regularization?",
+    "answer": "L1 regularization adds absolute value penalty to coefficients. It can shrink some coefficients to zero. It helps in feature selection. It is also called Lasso regression."
+  },
+  {
+    "question": "What is L2 regularization?",
+    "answer": "L2 regularization adds squared penalty to coefficients. It reduces large weights. It prevents overfitting. It is also called Ridge regression."
+  },
+
+  {
+    "question": "What is gradient descent?",
+    "answer": "Gradient descent is an optimization algorithm used to minimize loss. It updates model parameters iteratively. It moves in direction of steepest descent. It is widely used in machine learning."
+  },
+  {
+    "question": "What is learning rate?",
+    "answer": "Learning rate controls how much model parameters are updated. A high rate may overshoot the solution. A low rate slows learning. Proper tuning is important."
+  },
+  {
+    "question": "What is loss function?",
+    "answer": "Loss function measures model error. It compares predicted and actual values. Lower loss means better performance. Examples include MSE and cross-entropy."
+  },
+  {
+    "question": "What is mean squared error?",
+    "answer": "Mean squared error measures average squared difference between predictions and actual values. It penalizes large errors. It is used in regression tasks. Lower MSE indicates better model."
+  },
+  {
+    "question": "What is ROC curve?",
+    "answer": "ROC curve shows performance of classification model. It plots true positive rate vs false positive rate. It helps choose threshold. A better model has higher curve area."
+  },
+
+  {
+    "question": "What is AUC?",
+    "answer": "AUC stands for Area Under Curve. It measures performance of classification models. Higher AUC means better model. It ranges between 0 and 1."
+  },
+  {
+    "question": "What is dimensionality reduction?",
+    "answer": "Dimensionality reduction reduces number of features. It simplifies models and reduces computation. Techniques include PCA. It helps avoid overfitting."
+  },
+  {
+    "question": "What is PCA?",
+    "answer": "Principal Component Analysis reduces data dimensions. It transforms features into principal components. It captures maximum variance. It is used for visualization and noise reduction."
+  },
+  {
+    "question": "What is big data?",
+    "answer": "Big data refers to large and complex datasets. It cannot be processed using traditional tools. It includes volume, velocity, and variety. Technologies like Hadoop handle big data."
+  },
+  {
+    "question": "What is data mining?",
+    "answer": "Data mining extracts useful patterns from large datasets. It uses statistical and machine learning methods. It helps in decision-making. It is used in business analytics."
+  },
+
+  {
+    "question": "What is time series analysis?",
+    "answer": "Time series analysis studies data points over time. It identifies trends and seasonality. It is used for forecasting. Examples include stock price prediction."
+  },
+  {
+    "question": "What is anomaly detection?",
+    "answer": "Anomaly detection identifies unusual patterns in data. It helps detect fraud or errors. It uses statistical and ML techniques. It is important in security systems."
+  },
+  {
+    "question": "What is feature selection?",
+    "answer": "Feature selection chooses important features for model training. It reduces complexity. It improves model performance. It avoids overfitting."
+  },
+  {
+    "question": "What is hyperparameter tuning?",
+    "answer": "Hyperparameter tuning optimizes model parameters. It improves accuracy. Methods include grid search and random search. It is essential for best performance."
+  },
+  {
+    "question": "What is ensemble learning?",
+    "answer": "Ensemble learning combines multiple models. It improves prediction accuracy. Examples include bagging and boosting. It reduces errors."
+  }
+]

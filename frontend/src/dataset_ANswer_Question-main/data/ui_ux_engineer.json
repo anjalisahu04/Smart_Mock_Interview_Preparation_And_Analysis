@@ -1,0 +1,165 @@
+[
+  {
+    "question": "What is UI design?",
+    "answer": "UI (User Interface) design focuses on the visual elements of a product. It includes layout, colors, typography, and buttons. UI design ensures the interface is attractive and easy to use. It improves overall user interaction."
+  },
+  {
+    "question": "What is UX design?",
+    "answer": "UX (User Experience) design focuses on how users interact with a product. It ensures usability, accessibility, and satisfaction. UX involves research, testing, and improvement. It aims to provide a smooth user journey."
+  },
+  {
+    "question": "What is the difference between UI and UX?",
+    "answer": "UI focuses on the visual appearance of a product, while UX focuses on user experience. UI deals with design elements like colors and layout. UX focuses on usability and interaction. Both are important for product success."
+  },
+  {
+    "question": "What is a wireframe?",
+    "answer": "A wireframe is a basic layout of a design. It shows structure and placement of elements. It helps plan the interface before development. It is usually simple and without styling."
+  },
+  {
+    "question": "What is a prototype?",
+    "answer": "A prototype is an interactive model of a product. It simulates user interactions. It helps test design ideas before development. It reduces risk and improves usability."
+  },
+
+  {
+    "question": "What is usability?",
+    "answer": "Usability measures how easy a product is to use. It focuses on efficiency and satisfaction. Good usability improves user experience. It reduces errors and confusion."
+  },
+  {
+    "question": "What is user research?",
+    "answer": "User research involves studying user behavior and needs. It helps understand target audience. It guides design decisions. Methods include surveys and interviews."
+  },
+  {
+    "question": "What is user persona?",
+    "answer": "User persona is a fictional representation of target users. It includes demographics and behavior. It helps designers understand users. It guides product decisions."
+  },
+  {
+    "question": "What is user journey?",
+    "answer": "User journey describes steps a user takes to achieve a goal. It includes all interactions with product. It helps identify pain points. It improves experience."
+  },
+  {
+    "question": "What is interaction design?",
+    "answer": "Interaction design focuses on how users interact with products. It includes animations and responses. It ensures smooth communication. It improves engagement."
+  },
+
+  {
+    "question": "What is accessibility?",
+    "answer": "Accessibility ensures products are usable by all users. It includes people with disabilities. It improves inclusivity. It follows design standards."
+  },
+  {
+    "question": "What is responsive design?",
+    "answer": "Responsive design adapts layout for different devices. It ensures usability on mobile and desktop. It improves user experience. It uses flexible grids."
+  },
+  {
+    "question": "What is typography?",
+    "answer": "Typography involves choosing fonts and text styles. It improves readability and aesthetics. It enhances communication. Good typography improves design quality."
+  },
+  {
+    "question": "What is color theory?",
+    "answer": "Color theory studies how colors interact. It helps create appealing designs. It affects emotions and perception. Proper color use improves UX."
+  },
+  {
+    "question": "What is layout design?",
+    "answer": "Layout design arranges elements on a screen. It ensures clarity and balance. It improves readability. Good layout enhances user experience."
+  },
+
+  {
+    "question": "What is visual hierarchy?",
+    "answer": "Visual hierarchy organizes elements by importance. It guides user attention. It uses size, color, and spacing. It improves usability."
+  },
+  {
+    "question": "What is consistency in design?",
+    "answer": "Consistency ensures uniform design elements. It improves usability. It reduces confusion. It creates a cohesive experience."
+  },
+  {
+    "question": "What is design system?",
+    "answer": "A design system is a collection of reusable components. It ensures consistency. It improves efficiency. It helps teams collaborate."
+  },
+  {
+    "question": "What is heuristic evaluation?",
+    "answer": "Heuristic evaluation reviews design using usability principles. Experts identify issues. It improves user experience. It is a quick evaluation method."
+  },
+  {
+    "question": "What is A/B testing in UI/UX?",
+    "answer": "A/B testing compares two design versions. It measures performance. It helps choose better design. It improves user experience."
+  },
+
+  {
+    "question": "What is user feedback?",
+    "answer": "User feedback provides insights from users. It helps improve design. It identifies problems. It guides product improvements."
+  },
+  {
+    "question": "What is navigation design?",
+    "answer": "Navigation design helps users move through product. It ensures easy access to features. It improves usability. Clear navigation enhances experience."
+  },
+  {
+    "question": "What is information architecture?",
+    "answer": "Information architecture organizes content logically. It helps users find information easily. It improves usability. It structures navigation."
+  },
+  {
+    "question": "What is microinteraction?",
+    "answer": "Microinteractions are small animations or responses. They provide feedback to users. They improve engagement. They enhance user experience."
+  },
+  {
+    "question": "What is design thinking?",
+    "answer": "Design thinking is a problem-solving approach. It focuses on user needs. It involves empathy and testing. It improves innovation."
+  },
+
+  {
+    "question": "What is prototyping tool?",
+    "answer": "Prototyping tools create interactive designs. Examples include Figma and Adobe XD. They help test ideas. They improve collaboration."
+  },
+  {
+    "question": "What is usability testing?",
+    "answer": "Usability testing evaluates product usability. It involves real users. It identifies issues. It improves design quality."
+  },
+  {
+    "question": "What is cognitive load?",
+    "answer": "Cognitive load is mental effort required to use a product. Lower load improves usability. It reduces confusion. It enhances user experience."
+  },
+  {
+    "question": "What is affordance?",
+    "answer": "Affordance indicates how an element should be used. It provides visual clues. It improves usability. It helps users interact easily."
+  },
+  {
+    "question": "What is feedback in UI/UX?",
+    "answer": "Feedback informs users about actions. It includes messages and animations. It improves interaction. It ensures clarity."
+  },
+
+  {
+    "question": "What is onboarding?",
+    "answer": "Onboarding introduces new users to product. It explains features. It improves adoption. It enhances user experience."
+  },
+  {
+    "question": "What is mobile-first design?",
+    "answer": "Mobile-first design focuses on mobile screens first. It ensures better usability on small devices. It improves performance. It is widely used approach."
+  },
+  {
+    "question": "What is grid system?",
+    "answer": "Grid system organizes layout structure. It ensures alignment and consistency. It improves readability. It helps design efficiently."
+  },
+  {
+    "question": "What is white space?",
+    "answer": "White space is empty space in design. It improves readability. It reduces clutter. It enhances focus."
+  },
+  {
+    "question": "What is user engagement?",
+    "answer": "User engagement measures interaction with product. It shows user interest. It improves retention. It is key for success."
+  },
+
+  {
+    "question": "What is visual design?",
+    "answer": "Visual design focuses on aesthetics of product. It includes colors, images, and layout. It improves appeal. It enhances user experience."
+  },
+  {
+    "question": "What is usability principle?",
+    "answer": "Usability principles guide good design. They include simplicity and consistency. They improve user experience. They reduce errors."
+  },
+  {
+    "question": "What is design iteration?",
+    "answer": "Design iteration improves design over time. It uses feedback and testing. It enhances quality. It ensures better results."
+  },
+  {
+    "question": "What is prototyping vs wireframing?",
+    "answer": "Wireframing shows structure of design. Prototyping adds interaction. Wireframes are basic layouts. Prototypes simulate real experience."
+  }
+]

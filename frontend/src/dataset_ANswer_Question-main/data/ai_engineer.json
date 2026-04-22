@@ -1,0 +1,148 @@
+[
+  {
+    "question": "What is artificial intelligence?",
+    "answer": "Artificial Intelligence (AI) is the simulation of human intelligence in machines. It enables systems to learn, reason, and make decisions. AI is used in applications like chatbots, recommendation systems, and automation. It improves efficiency and reduces human effort."
+  },
+  {
+    "question": "What is machine learning?",
+    "answer": "Machine learning is a subset of AI that allows systems to learn from data. It improves performance without being explicitly programmed. It uses algorithms to identify patterns. It is widely used in prediction and classification tasks."
+  },
+  {
+    "question": "What is deep learning?",
+    "answer": "Deep learning is a subset of machine learning that uses neural networks with multiple layers. It can learn complex patterns from large datasets. It is used in image recognition, NLP, and speech processing. It requires high computational power."
+  },
+  {
+    "question": "What is a neural network?",
+    "answer": "A neural network is a model inspired by the human brain. It consists of layers of interconnected nodes. It processes input data and produces output. Neural networks are used in deep learning applications."
+  },
+  {
+    "question": "What is supervised learning in AI?",
+    "answer": "Supervised learning uses labeled data to train models. The system learns mapping between inputs and outputs. It is used for classification and regression tasks. Examples include spam detection and price prediction."
+  },
+
+  {
+    "question": "What is unsupervised learning in AI?",
+    "answer": "Unsupervised learning works with unlabeled data. It identifies hidden patterns and structures. It is used for clustering and association tasks. It helps discover unknown relationships in data."
+  },
+  {
+    "question": "What is reinforcement learning?",
+    "answer": "Reinforcement learning is a type of learning based on rewards and penalties. An agent interacts with an environment. It learns optimal actions over time. It is used in robotics and game playing."
+  },
+  {
+    "question": "What is natural language processing?",
+    "answer": "Natural Language Processing (NLP) enables machines to understand human language. It involves text processing and language modeling. It is used in chatbots, translation, and sentiment analysis. NLP combines AI and linguistics."
+  },
+  {
+    "question": "What is computer vision?",
+    "answer": "Computer vision enables machines to interpret visual data like images and videos. It uses deep learning models. It is used in face recognition and object detection. It helps automate visual tasks."
+  },
+  {
+    "question": "What is training data?",
+    "answer": "Training data is used to train machine learning models. It contains input-output pairs. Models learn patterns from this data. Quality of training data affects performance."
+  },
+
+  {
+    "question": "What is test data?",
+    "answer": "Test data is used to evaluate model performance. It is separate from training data. It ensures unbiased results. It helps measure generalization."
+  },
+  {
+    "question": "What is model accuracy?",
+    "answer": "Accuracy measures how many predictions are correct. It is calculated as correct predictions divided by total predictions. It is useful for balanced datasets. Higher accuracy indicates better performance."
+  },
+  {
+    "question": "What is precision in AI?",
+    "answer": "Precision measures how many predicted positives are correct. It focuses on false positives. It is important in applications like fraud detection. High precision reduces false alarms."
+  },
+  {
+    "question": "What is recall in AI?",
+    "answer": "Recall measures how many actual positives are correctly predicted. It focuses on false negatives. It is important in medical diagnosis. High recall ensures fewer missed cases."
+  },
+  {
+    "question": "What is F1-score?",
+    "answer": "F1-score combines precision and recall into one metric. It is the harmonic mean of both. It is useful for imbalanced datasets. It gives a balanced performance measure."
+  },
+
+  {
+    "question": "What is overfitting in AI?",
+    "answer": "Overfitting occurs when a model learns training data too well. It captures noise instead of patterns. It performs poorly on new data. Regularization and validation help reduce it."
+  },
+  {
+    "question": "What is underfitting in AI?",
+    "answer": "Underfitting occurs when a model is too simple. It fails to learn patterns from data. It performs poorly on both training and test data. Increasing complexity can help."
+  },
+  {
+    "question": "What is feature engineering?",
+    "answer": "Feature engineering involves creating useful input variables. It improves model performance. It includes transformation and selection. Good features lead to better predictions."
+  },
+  {
+    "question": "What is hyperparameter tuning?",
+    "answer": "Hyperparameter tuning improves model performance. It involves selecting best parameters. Techniques include grid search and random search. It helps optimize results."
+  },
+  {
+    "question": "What is gradient descent?",
+    "answer": "Gradient descent is an optimization algorithm. It minimizes loss function by updating weights. It moves toward lowest error. It is widely used in training models."
+  },
+
+  {
+    "question": "What is backpropagation?",
+    "answer": "Backpropagation is used to train neural networks. It calculates error and updates weights. It works by propagating errors backward. It improves model accuracy."
+  },
+  {
+    "question": "What is activation function?",
+    "answer": "Activation functions introduce non-linearity in neural networks. They help models learn complex patterns. Examples include ReLU and sigmoid. They control output of neurons."
+  },
+  {
+    "question": "What is ReLU?",
+    "answer": "ReLU (Rectified Linear Unit) is an activation function. It outputs zero for negative values. It helps reduce computation time. It is widely used in deep learning."
+  },
+  {
+    "question": "What is sigmoid function?",
+    "answer": "Sigmoid function outputs values between 0 and 1. It is used for probability predictions. It is common in binary classification. It helps map inputs to probabilities."
+  },
+  {
+    "question": "What is softmax?",
+    "answer": "Softmax converts outputs into probability distribution. It is used in multi-class classification. It ensures probabilities sum to 1. It helps choose best class."
+  },
+
+  {
+    "question": "What is loss function?",
+    "answer": "Loss function measures difference between predicted and actual values. It guides model training. Lower loss means better performance. Examples include MSE and cross-entropy."
+  },
+  {
+    "question": "What is cross-entropy loss?",
+    "answer": "Cross-entropy loss is used for classification tasks. It measures difference between predicted and actual probabilities. It penalizes incorrect predictions. Lower value indicates better model."
+  },
+  {
+    "question": "What is transfer learning?",
+    "answer": "Transfer learning uses pre-trained models for new tasks. It saves time and resources. It improves performance with less data. It is widely used in deep learning."
+  },
+  {
+    "question": "What is model deployment?",
+    "answer": "Model deployment is the process of using trained models in real applications. It makes models accessible to users. It involves integration with systems. It is the final step in AI projects."
+  },
+  {
+    "question": "What is AI ethics?",
+    "answer": "AI ethics focuses on responsible use of AI. It includes fairness, transparency, and privacy. It prevents bias and misuse. Ethical AI ensures trust and safety."
+  },
+
+  {
+    "question": "What is bias in AI?",
+    "answer": "Bias in AI occurs when models favor certain outcomes unfairly. It often comes from biased data. It leads to unfair decisions. Reducing bias is important for ethical AI."
+  },
+  {
+    "question": "What is explainable AI?",
+    "answer": "Explainable AI makes model decisions understandable. It improves trust in AI systems. It helps debug models. It is important in critical applications like healthcare."
+  },
+  {
+    "question": "What is data augmentation?",
+    "answer": "Data augmentation increases dataset size artificially. It creates variations of existing data. It improves model robustness. It is commonly used in image processing."
+  },
+  {
+    "question": "What is batch processing?",
+    "answer": "Batch processing trains models on small chunks of data. It improves efficiency. It reduces memory usage. It is used in large datasets."
+  },
+  {
+    "question": "What is epoch in training?",
+    "answer": "An epoch is one complete pass through training data. Models learn from data in multiple epochs. More epochs improve learning. Too many epochs can cause overfitting."
+  }
+]

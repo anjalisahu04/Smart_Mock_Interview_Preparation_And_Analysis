@@ -1,0 +1,190 @@
+[
+  {
+    "question": "What is software engineering?",
+    "answer": "Software engineering is the systematic approach to designing, developing, and maintaining software. It involves applying engineering principles to ensure quality and reliability. It helps build scalable and efficient applications."
+  },
+  {
+    "question": "What is an API?",
+    "answer": "An API (Application Programming Interface) allows different software systems to communicate. It defines methods and data formats for interaction. APIs are widely used in web and mobile applications."
+  },
+  {
+    "question": "What is version control?",
+    "answer": "Version control is a system that tracks changes in code over time. It allows multiple developers to collaborate efficiently. Tools like Git help manage versions and history."
+  },
+  {
+    "question": "What is Git?",
+    "answer": "Git is a distributed version control system used to track code changes. It enables collaboration among developers. It supports branching, merging, and version history."
+  },
+  {
+    "question": "What is GitHub?",
+    "answer": "GitHub is a platform for hosting Git repositories. It provides collaboration features like pull requests and issue tracking. It is widely used for open-source and team projects."
+  },
+
+  {
+    "question": "What is a programming language?",
+    "answer": "A programming language is used to write instructions for computers. It allows developers to create software applications. Examples include Python, Java, and C++."
+  },
+  {
+    "question": "What is object-oriented programming?",
+    "answer": "Object-oriented programming (OOP) is a paradigm based on objects and classes. It promotes reusability and modular design. Key concepts include inheritance, encapsulation, and polymorphism."
+  },
+  {
+    "question": "What is a class?",
+    "answer": "A class is a blueprint for creating objects in OOP. It defines properties and behaviors. Objects are instances of a class."
+  },
+  {
+    "question": "What is an object?",
+    "answer": "An object is an instance of a class. It contains data and methods. Objects interact with each other to perform tasks."
+  },
+  {
+    "question": "What is inheritance?",
+    "answer": "Inheritance allows a class to inherit properties from another class. It promotes code reuse. It helps create hierarchical relationships."
+  },
+
+  {
+    "question": "What is polymorphism?",
+    "answer": "Polymorphism allows methods to perform different tasks based on input. It improves flexibility in code. It is a key feature of OOP."
+  },
+  {
+    "question": "What is encapsulation?",
+    "answer": "Encapsulation hides internal details of a class. It provides controlled access through methods. It improves security and maintainability."
+  },
+  {
+    "question": "What is abstraction?",
+    "answer": "Abstraction hides complex implementation details. It shows only necessary features to the user. It simplifies system design."
+  },
+  {
+    "question": "What is a function?",
+    "answer": "A function is a reusable block of code that performs a task. It helps reduce code duplication. Functions improve modularity."
+  },
+  {
+    "question": "What is recursion?",
+    "answer": "Recursion is a technique where a function calls itself. It is used to solve problems like factorial and tree traversal. It must have a base condition."
+  },
+
+  {
+    "question": "What is a data structure?",
+    "answer": "A data structure is a way of organizing and storing data. It allows efficient access and modification. Examples include arrays, lists, and trees."
+  },
+  {
+    "question": "What is an array?",
+    "answer": "An array is a collection of elements stored at contiguous memory locations. It allows fast access using index. It stores similar data types."
+  },
+  {
+    "question": "What is a linked list?",
+    "answer": "A linked list is a collection of nodes connected by pointers. Each node contains data and a reference. It allows dynamic memory allocation."
+  },
+  {
+    "question": "What is a stack?",
+    "answer": "A stack is a data structure that follows LIFO (Last In First Out). It supports push and pop operations. It is used in recursion and expression evaluation."
+  },
+  {
+    "question": "What is a queue?",
+    "answer": "A queue follows FIFO (First In First Out) principle. It supports enqueue and dequeue operations. It is used in scheduling and buffering."
+  },
+
+  {
+    "question": "What is a database?",
+    "answer": "A database is a collection of structured data. It allows storing, retrieving, and managing data efficiently. It is used in most applications."
+  },
+  {
+    "question": "What is SQL?",
+    "answer": "SQL is a language used to interact with databases. It allows querying and managing data. It is widely used in relational databases."
+  },
+  {
+    "question": "What is a primary key?",
+    "answer": "A primary key uniquely identifies each record in a table. It ensures data integrity. It cannot have null values."
+  },
+  {
+    "question": "What is a foreign key?",
+    "answer": "A foreign key links two tables together. It refers to the primary key of another table. It maintains relationships in databases."
+  },
+  {
+    "question": "What is normalization?",
+    "answer": "Normalization is the process of organizing database tables. It reduces redundancy and improves data integrity. It involves dividing tables into smaller ones."
+  },
+
+  {
+    "question": "What is a web server?",
+    "answer": "A web server handles client requests and serves web pages. It processes HTTP requests. Examples include Apache and Nginx."
+  },
+  {
+    "question": "What is HTTP?",
+    "answer": "HTTP is a protocol used for communication on the web. It transfers data between client and server. It is the foundation of web applications."
+  },
+  {
+    "question": "What is HTTPS?",
+    "answer": "HTTPS is a secure version of HTTP. It uses encryption to protect data. It ensures secure communication."
+  },
+  {
+    "question": "What is frontend development?",
+    "answer": "Frontend development focuses on user interface design. It includes HTML, CSS, and JavaScript. It ensures good user experience."
+  },
+  {
+    "question": "What is backend development?",
+    "answer": "Backend development handles server-side logic and databases. It processes requests and responses. It ensures application functionality."
+  },
+
+  {
+    "question": "What is full stack development?",
+    "answer": "Full stack development includes both frontend and backend. It allows developers to build complete applications. It requires knowledge of multiple technologies."
+  },
+  {
+    "question": "What is debugging?",
+    "answer": "Debugging is the process of finding and fixing errors in code. It improves software quality. It is an important part of development."
+  },
+  {
+    "question": "What is testing?",
+    "answer": "Testing ensures software works as expected. It identifies bugs and errors. It improves reliability and performance."
+  },
+  {
+    "question": "What is unit testing?",
+    "answer": "Unit testing tests individual components of software. It ensures each part works correctly. It is usually automated."
+  },
+  {
+    "question": "What is integration testing?",
+    "answer": "Integration testing checks interaction between components. It ensures modules work together. It helps detect interface issues."
+  },
+
+  {
+    "question": "What is deployment?",
+    "answer": "Deployment is the process of releasing software to users. It involves moving code to production. It ensures application availability."
+  },
+  {
+    "question": "What is cloud computing?",
+    "answer": "Cloud computing provides computing services over the internet. It includes storage, servers, and databases. It offers scalability and flexibility."
+  },
+  {
+    "question": "What is virtualization?",
+    "answer": "Virtualization creates virtual versions of hardware resources. It allows multiple systems to run on one machine. It improves efficiency."
+  },
+  {
+    "question": "What is containerization?",
+    "answer": "Containerization packages applications with dependencies. It ensures consistent environments. Docker is a popular tool."
+  },
+  {
+    "question": "What is scalability?",
+    "answer": "Scalability is the ability of a system to handle increased load. It ensures performance under growth. It is important for large applications."
+  },
+
+  {
+    "question": "What is security in software?",
+    "answer": "Security protects software from threats and attacks. It ensures data confidentiality and integrity. It includes encryption and authentication."
+  },
+  {
+    "question": "What is authentication?",
+    "answer": "Authentication verifies the identity of users. It ensures only authorized access. Methods include passwords and biometrics."
+  },
+  {
+    "question": "What is authorization?",
+    "answer": "Authorization determines what actions a user can perform. It works after authentication. It controls access to resources."
+  },
+  {
+    "question": "What is encryption?",
+    "answer": "Encryption converts data into secure format. It protects information from unauthorized access. It is used in secure communication."
+  },
+  {
+    "question": "What is API testing?",
+    "answer": "API testing checks the functionality of APIs. It ensures proper communication between systems. It verifies response accuracy."
+  }
+]

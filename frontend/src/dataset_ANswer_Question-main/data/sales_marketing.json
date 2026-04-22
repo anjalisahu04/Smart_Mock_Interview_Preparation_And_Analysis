@@ -1,0 +1,148 @@
+[
+  {
+    "question": "What is sales?",
+    "answer": "Sales is the process of selling products or services to customers. It involves understanding customer needs and offering suitable solutions. Sales aims to generate revenue for a business. It requires communication and negotiation skills."
+  },
+  {
+    "question": "What is marketing?",
+    "answer": "Marketing is the process of promoting and selling products or services. It includes research, advertising, and customer engagement. Marketing helps create demand and brand awareness. It plays a key role in business growth."
+  },
+  {
+    "question": "What is the difference between sales and marketing?",
+    "answer": "Marketing focuses on attracting potential customers, while sales focuses on converting them into buyers. Marketing builds awareness and interest. Sales closes deals and generates revenue. Both work together for business success."
+  },
+  {
+    "question": "What is a target market?",
+    "answer": "A target market is a group of customers a business aims to serve. It is defined based on demographics and behavior. Identifying target markets improves marketing efficiency. It helps deliver relevant products and messages."
+  },
+  {
+    "question": "What is customer segmentation?",
+    "answer": "Customer segmentation divides customers into groups based on characteristics. It helps personalize marketing strategies. Segments may include age, income, or behavior. It improves targeting and customer satisfaction."
+  },
+
+  {
+    "question": "What is a sales funnel?",
+    "answer": "A sales funnel represents the stages customers go through before buying. It includes awareness, interest, decision, and action. It helps track customer journey. It improves conversion rates."
+  },
+  {
+    "question": "What is lead generation?",
+    "answer": "Lead generation is the process of attracting potential customers. It uses methods like ads, email, and content marketing. Leads are potential buyers. It is the first step in sales."
+  },
+  {
+    "question": "What is a lead?",
+    "answer": "A lead is a potential customer interested in a product or service. Leads can be generated through marketing efforts. They may become customers. Managing leads is important for sales success."
+  },
+  {
+    "question": "What is conversion rate?",
+    "answer": "Conversion rate measures how many leads become customers. It is calculated as conversions divided by total visitors. It shows effectiveness of marketing. Higher rates indicate better performance."
+  },
+  {
+    "question": "What is branding?",
+    "answer": "Branding is the process of creating a unique identity for a business. It includes logo, name, and messaging. Strong branding builds trust and recognition. It differentiates a company from competitors."
+  },
+
+  {
+    "question": "What is digital marketing?",
+    "answer": "Digital marketing uses online channels to promote products. It includes social media, SEO, and email marketing. It helps reach a wider audience. It is cost-effective and measurable."
+  },
+  {
+    "question": "What is SEO?",
+    "answer": "SEO (Search Engine Optimization) improves website visibility on search engines. It involves keywords, content, and backlinks. Higher ranking increases traffic. It is important for online marketing."
+  },
+  {
+    "question": "What is content marketing?",
+    "answer": "Content marketing involves creating valuable content for customers. It attracts and engages audience. Examples include blogs and videos. It builds trust and brand authority."
+  },
+  {
+    "question": "What is social media marketing?",
+    "answer": "Social media marketing promotes products on platforms like Facebook and Instagram. It helps connect with customers. It increases brand awareness. It allows direct interaction."
+  },
+  {
+    "question": "What is email marketing?",
+    "answer": "Email marketing involves sending promotional messages via email. It helps maintain customer relationships. It is cost-effective and targeted. It improves customer retention."
+  },
+
+  {
+    "question": "What is customer relationship management?",
+    "answer": "CRM manages interactions with customers. It helps track sales and communication. It improves customer satisfaction. It builds long-term relationships."
+  },
+  {
+    "question": "What is customer satisfaction?",
+    "answer": "Customer satisfaction measures how happy customers are. It reflects product quality and service. High satisfaction leads to loyalty. It is key to business success."
+  },
+  {
+    "question": "What is market research?",
+    "answer": "Market research gathers information about customers and competitors. It helps understand market needs. It supports decision-making. It reduces risks."
+  },
+  {
+    "question": "What is product positioning?",
+    "answer": "Product positioning defines how a product is perceived in the market. It highlights unique value. It differentiates from competitors. It influences customer choice."
+  },
+  {
+    "question": "What is pricing strategy?",
+    "answer": "Pricing strategy determines product price. It considers cost, demand, and competition. It affects sales and profit. Different strategies include premium and discount pricing."
+  },
+
+  {
+    "question": "What is B2B marketing?",
+    "answer": "B2B marketing targets businesses instead of consumers. It focuses on long-term relationships. It involves complex decision-making. It is common in industries like software."
+  },
+  {
+    "question": "What is B2C marketing?",
+    "answer": "B2C marketing targets individual consumers. It focuses on quick decisions. It uses emotional appeal. It is common in retail industries."
+  },
+  {
+    "question": "What is direct sales?",
+    "answer": "Direct sales involve selling products directly to customers. It does not use intermediaries. It includes door-to-door and online selling. It builds personal relationships."
+  },
+  {
+    "question": "What is indirect sales?",
+    "answer": "Indirect sales involve intermediaries like distributors. Products reach customers through partners. It expands market reach. It reduces direct effort."
+  },
+  {
+    "question": "What is upselling?",
+    "answer": "Upselling encourages customers to buy higher-value products. It increases revenue. It focuses on premium options. It improves customer value."
+  },
+
+  {
+    "question": "What is cross-selling?",
+    "answer": "Cross-selling suggests related products to customers. It increases sales volume. It enhances customer experience. It is common in retail and e-commerce."
+  },
+  {
+    "question": "What is customer retention?",
+    "answer": "Customer retention focuses on keeping existing customers. It builds loyalty and repeat purchases. It is more cost-effective than acquiring new customers. It improves profitability."
+  },
+  {
+    "question": "What is brand loyalty?",
+    "answer": "Brand loyalty is when customers prefer a specific brand. It leads to repeat purchases. It builds long-term relationships. It is achieved through quality and trust."
+  },
+  {
+    "question": "What is advertising?",
+    "answer": "Advertising promotes products through media channels. It creates awareness and interest. It uses creative messaging. It helps attract customers."
+  },
+  {
+    "question": "What is influencer marketing?",
+    "answer": "Influencer marketing uses popular individuals to promote products. It leverages trust and followers. It increases brand reach. It is common on social media."
+  },
+
+  {
+    "question": "What is ROI in marketing?",
+    "answer": "ROI measures return on investment. It compares profit with cost. It evaluates campaign effectiveness. Higher ROI indicates better performance."
+  },
+  {
+    "question": "What is KPI in sales?",
+    "answer": "KPI (Key Performance Indicator) measures performance. It tracks goals like sales revenue. It helps monitor progress. It improves decision-making."
+  },
+  {
+    "question": "What is cold calling?",
+    "answer": "Cold calling involves contacting potential customers without prior interaction. It aims to generate leads. It requires strong communication. It is a traditional sales technique."
+  },
+  {
+    "question": "What is negotiation?",
+    "answer": "Negotiation is the process of reaching an agreement. It involves discussion between buyer and seller. It aims for mutual benefit. It is essential in sales."
+  },
+  {
+    "question": "What is closing a sale?",
+    "answer": "Closing a sale is finalizing a transaction. It involves agreement and payment. It is the final stage of sales process. It converts leads into customers."
+  }
+]
