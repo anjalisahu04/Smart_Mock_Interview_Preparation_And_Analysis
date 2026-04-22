@@ -20,8 +20,8 @@ public class UserController {
     @Autowired
     private UserRepository userRepository;
 
-    @Autowired
-    private UserDetailsServiceImpl userDetailsService;
+    // @Autowired
+    // private UserDetailsServiceImpl userDetailsService;
 
     @GetMapping("/profile")
     public ResponseEntity<?> getCurrentUserProfile() {

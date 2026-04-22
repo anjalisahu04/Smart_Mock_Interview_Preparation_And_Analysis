@@ -1,56 +1,3 @@
-// package com.MockPrep.backend.Controller;
-
-// import com.MockPrep.backend.Payload.request.LoginRequest;
-// import com.MockPrep.backend.Payload.request.RegisterRequest;
-// import com.MockPrep.backend.Payload.response.AuthResponse;
-// import com.MockPrep.backend.Service.AuthService;
-// import jakarta.validation.Valid;
-// import org.springframework.beans.factory.annotation.Autowired;
-// import org.springframework.http.ResponseEntity;
-// import org.springframework.web.bind.annotation.*;
-
-// @RestController
-// @RequestMapping("/api/auth")
-// @CrossOrigin(origins = "http://localhost:3000", maxAge = 3600, allowCredentials = "true")
-// public class AuthController {
-
-//     @Autowired
-//     private AuthService authService;
-
-//     @PostMapping("/login")
-//     public ResponseEntity<?> authenticateUser(@Valid @RequestBody LoginRequest loginRequest) {
-//         try {
-//             AuthResponse authResponse = authService.loginUser(loginRequest);
-//             return ResponseEntity.ok(authResponse);
-//         } catch (Exception e) {
-//             return ResponseEntity.badRequest().body(new MessageResponse(e.getMessage()));
-//         }
-//     }
-
-//     @PostMapping("/register")
-//     public ResponseEntity<?> registerUser(@Valid @RequestBody RegisterRequest registerRequest) {
-//         try {
-//             String message = authService.registerUser(registerRequest);
-//             return ResponseEntity.ok(new MessageResponse(message));
-//         } catch (RuntimeException e) {
-//             return ResponseEntity.badRequest().body(new MessageResponse(e.getMessage()));
-//         }
-//     }
-
-//     public static class MessageResponse {
-//         private String message;
-
-//         public MessageResponse(String message) {
-//             this.message = message;
-//         }
-
-//         public String getMessage() { return message; }
-//         public void setMessage(String message) { this.message = message; }
-//     }
-// }
-
-
-
 package com.MockPrep.backend.Controller;
 
 import com.MockPrep.backend.Payload.request.LoginRequest;
@@ -65,6 +12,7 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.HashMap;
 import java.util.Map;
+
 
 @RestController
 @RequestMapping("/api/auth")
@@ -109,4 +57,6 @@ public class AuthController {
             return ResponseEntity.status(HttpStatus.BAD_REQUEST).body(error);
         }
     }
+    
+    
 }

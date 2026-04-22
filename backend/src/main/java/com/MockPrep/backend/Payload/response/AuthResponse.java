@@ -16,7 +16,7 @@ public class AuthResponse {
         );
     }
 
-    // Getters and Setters
+    
     public String getToken() { return token; }
     public void setToken(String token) { this.token = token; }
 
@@ -26,7 +26,7 @@ public class AuthResponse {
     public UserDetails getUser() { return user; }
     public void setUser(UserDetails user) { this.user = user; }
 
-    // Inner class to structure the user data
+  
     public static class UserDetails {
         private String id;
         private String name;
@@ -38,7 +38,7 @@ public class AuthResponse {
             this.email = email;
         }
 
-        // Getters
+       
         public String getId() { return id; }
         public String getName() { return name; }
         public String getEmail() { return email; }
