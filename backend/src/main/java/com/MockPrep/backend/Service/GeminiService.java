@@ -125,7 +125,7 @@ public class GeminiService {
     public List<Question> generateQuestions(String domain, String type, String level, int count) {
         String prompt = String.format(
             "Generate exactly %d interview questions for a %s interview in %s domain at %s level. " +
-            "Create a mix of technical and behavioral questions appropriate for this level. " +
+            "Create a mix of technical questions appropriate for this level. " +
             "Return ONLY a valid JSON array. Each question must have 'text' and 'type' fields. " +
             "Type should be: 'Technical', 'Behavioral', or 'System Design'. " +
             "Make questions challenging, realistic, and relevant to %s. " +

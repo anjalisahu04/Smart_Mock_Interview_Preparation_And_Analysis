@@ -21,7 +21,11 @@ const Dashboard = () => {
       setData(result);
     } catch (err) {
       console.error('Dashboard error:', err);
-      setError('Failed to load dashboard');
+      if (err.response?.status === 401 || err.response?.status === 403) {
+        setError('Your session has expired or you are not authorized. Please log in again.');
+      } else {
+        setError('Failed to load dashboard');
+      }
     } finally {
       setLoading(false);
     }

@@ -70,7 +70,15 @@ function App() {
           />
 <Route path="/interview/setup" element={<InterviewSetup />} />
 <Route path="/interview/session/:sessionId" element={<InterviewSession />} />
-<Route path="/dashboard" element={<Dashboard />} /><Route 
+<Route 
+  path="/dashboard" 
+  element={
+    isAuthenticated ? 
+    <Dashboard /> : 
+    <Navigate to="/login" />
+  } 
+/>
+<Route 
   path="/interviews" 
   element={
     isAuthenticated ? 

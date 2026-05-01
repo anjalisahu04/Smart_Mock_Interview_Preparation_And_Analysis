@@ -184,6 +184,30 @@ import axios from 'axios';
 
 const API_URL = 'http://localhost:8080/api/auth/';
 
+const getStoredAuthData = () => {
+  const userStr = localStorage.getItem('user');
+  const legacyToken = localStorage.getItem('token');
+
+  if (!userStr) {
+    return legacyToken ? { token: legacyToken } : null;
+  }
+
+  try {
+    const userData = JSON.parse(userStr);
+    if (userData?.token) {
+      return userData;
+    }
+
+    if (legacyToken) {
+      return { ...userData, token: legacyToken };
+    }
+  } catch (e) {
+    console.error('Error parsing stored user:', e);
+  }
+
+  return legacyToken ? { token: legacyToken } : null;
+};
+
 class AuthService {
   async login(email, password) {
     try {
@@ -212,6 +236,7 @@ class AuthService {
           }
         };
         localStorage.setItem('user', JSON.stringify(userData));
+        localStorage.setItem('token', response.data.token);
         return userData;
       }
       return response.data;
@@ -252,32 +277,16 @@ class AuthService {
 
   logout() {
     localStorage.removeItem('user');
+    localStorage.removeItem('token');
   }
 
   getCurrentUser() {
-    const userStr = localStorage.getItem('user');
-    if (userStr) {
-      try {
-        const userData = JSON.parse(userStr);
-        return userData.user || userData;
-      } catch (e) {
-        return null;
-      }
-    }
-    return null;
+    const userData = getStoredAuthData();
+    return userData?.user || null;
   }
 
   getToken() {
-    const userStr = localStorage.getItem('user');
-    if (userStr) {
-      try {
-        const userData = JSON.parse(userStr);
-        return userData.token;
-      } catch (e) {
-        return null;
-      }
-    }
-    return null;
+    return getStoredAuthData()?.token || null;
   }
 }
 

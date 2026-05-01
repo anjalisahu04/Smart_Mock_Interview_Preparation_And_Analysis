@@ -4,6 +4,7 @@ const API_URL = 'http://localhost:8080/api/';
 
 const getAuthHeader = () => {
   const userStr = localStorage.getItem('user');
+  const legacyToken = localStorage.getItem('token');
   if (userStr) {
     try {
       const user = JSON.parse(userStr);
@@ -13,6 +14,9 @@ const getAuthHeader = () => {
     } catch (e) {
       console.error('Error parsing user:', e);
     }
+  }
+  if (legacyToken) {
+    return { Authorization: `Bearer ${legacyToken}` };
   }
   return {};
 };

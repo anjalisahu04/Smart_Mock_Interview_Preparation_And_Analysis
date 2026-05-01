@@ -18,6 +18,7 @@
 // services/auth-header.js
 export default function authHeader() {
   const userStr = localStorage.getItem('user');
+  const legacyToken = localStorage.getItem('token');
   
   if (userStr) {
     try {
@@ -28,6 +29,9 @@ export default function authHeader() {
     } catch (e) {
       console.error('Error parsing user from localStorage:', e);
     }
+  }
+  if (legacyToken) {
+    return { Authorization: 'Bearer ' + legacyToken };
   }
   return {};
 }
